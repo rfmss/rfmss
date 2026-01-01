@@ -4,6 +4,7 @@
 > User: Rafa Mass (rfmss)
 > Role: Cognitive Creative Developer
 > OS: Linux (MX / XFCE)
+> Email: rfmss@disr.it
 > Location: 127.0.0.1 (Brazil)
 ```
 
