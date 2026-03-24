@@ -10,12 +10,11 @@ de tudo, ao meu amor serei atento
 
 **rafa mass**
 
-escritor. professor de língua portuguesa.  
-que também — e isso importa, embora seja difícil explicar exatamente *por que* importa — aprendeu a conversar com máquinas.
+escritor. professor de português. faz ferramentas de linguagem.
 
-não é dev. isso não é modéstia performática: é uma distinção técnica com consequências reais.  
-é alguém que viba, itera, publica o que funciona e deixa visível o que não funcionou ainda,  
-porque a ilusão de competência contínua é, no fundo, o oposto do que interessa aqui.
+os projetos aqui nasceram de perguntas que não tinham resposta boa ainda:
+como escrever em fatias? como um puzzle de palavras funciona no browser?
+o que é uma nota que não some?
 
 ---
 
@@ -32,10 +31,7 @@ porque a ilusão de competência contínua é, no fundo, o oposto do que interes
 
 ---
 
-**contato**
-
-se quiser conversar sobre língua, ensino, ou qualquer coisa que não caiba numa issue →  
-abre uma issue mesmo. ou me acha onde me achar.
+issues abertas. feedback bem-vindo.
 
 ---
 
