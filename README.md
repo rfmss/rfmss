@@ -19,11 +19,16 @@ porque a ilusão de competência contínua é, no fundo, o oposto do que interes
 
 ---
 
-**o que você encontra por aqui**
+**projetos**
 
-projetos feitos por curiosidade genuína — que é diferente de curiosidade exibida.  
-ferramentas que precisavam existir e não existiam do jeito certo.  
-coisas que começaram como aula e, por razões que o próprio autor não soube prever, viraram código.
+| | |
+|---|---|
+| [eskrev](https://eskrev.rafa.pro.br/) | slice writer |
+| [bijuled](https://rfmss.github.io/bijuled/) | jogo de palavras |
+| [fernanda towers](https://rfmss.github.io/FernandaTowers/) | torre de blocos |
+| [p](https://rfmss.github.io/p/) | caça-palavras |
+| [dirlizanu](https://rfmss.github.io/dirlizanu/) | slide puzzle |
+| [nota](https://rfmss.github.io/nota/) | notas |
 
 ---
 
