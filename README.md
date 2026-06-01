@@ -1,16 +1,8 @@
 <div align="center">
 
-```
-de tudo, ao meu amor serei atento
-```
+**rafa mass** · escritor e desenvolvedor · Brasil
 
 </div>
-
-<br>
-
-**rafa mass** — escritor e desenvolvedor. Brasil.
-
-em 2006 um roteiro meu foi premiado em festival. criei o escrevaral com tudo que não tinha.
 
 <br>
 
