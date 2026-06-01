@@ -6,35 +6,56 @@ de tudo, ao meu amor serei atento
 
 </div>
 
----
+<br>
 
-**rafa mass**
+**rafa mass** — escritor e desenvolvedor. Brasil.
 
-escritor. professor de português. faz ferramentas de linguagem.
+em 2006 um roteiro meu foi premiado em festival. criei o escrevaral com tudo que não tinha.
 
-os projetos aqui nasceram de perguntas que não tinham resposta boa ainda:
-que ferramenta o escritor brasileiro merece ter? como um puzzle de palavras
-funciona no browser? o que é uma nota que não some?
+<br>
 
----
+<table width="100%">
+<tr>
+<td colspan="3" align="center">
 
-**projetos**
+### [escrevaral](https://escrevaral.com)
+oficina literária gratuita para escritoras e escritores brasileiros<br>
+`js vanilla` &nbsp;·&nbsp; `offline-first` &nbsp;·&nbsp; `sem IA` &nbsp;·&nbsp; `sem nuvem`
 
-| | |
-|---|---|
-| [escrevaral](https://escrevaral.com/) | oficina literária gratuita |
-| [bijuled](https://rfmss.github.io/bijuled/) | jogo de palavras |
-| [fernanda towers](https://rfmss.github.io/FernandaTowers/) | torre de blocos |
-| [p](https://rfmss.github.io/p/) | caça-palavras |
-| [dirlizanu](https://rfmss.github.io/dirlizanu/) | slide puzzle |
-| [nota](https://rfmss.github.io/nota/) | notas |
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<b><a href="https://rfmss.github.io/bijuled">bijuled</a></b><br>
+<sub>jogo de palavras</sub>
+</td>
+<td align="center" width="33%">
+<b><a href="https://rfmss.github.io/FernandaTowers">fernanda towers</a></b><br>
+<sub>torre de blocos</sub>
+</td>
+<td align="center" width="33%">
+<b><a href="https://rfmss.github.io/p">p</a></b><br>
+<sub>caça-palavras</sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<b><a href="https://rfmss.github.io/dirlizanu">dirlizanu</a></b><br>
+<sub>slide puzzle</sub>
+</td>
+<td align="center">
+<b><a href="https://rfmss.github.io/biscoito">biscoito da sorte</a></b><br>
+<sub>um biscoito por dia</sub>
+</td>
+<td align="center">
+<b><a href="https://rfmss.github.io/nota">nota</a></b><br>
+<sub>notas</sub>
+</td>
+</tr>
+</table>
 
----
-
-issues abertas. feedback bem-vindo.
-
----
+<br>
 
 <div align="center">
-<sub>feito com atenção</sub>
+<sub>issues abertas · feedback bem-vindo · <a href="mailto:rfmss@proton.me">rfmss@proton.me</a></sub>
 </div>
