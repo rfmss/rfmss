@@ -13,8 +13,8 @@ de tudo, ao meu amor serei atento
 escritor. professor de português. faz ferramentas de linguagem.
 
 os projetos aqui nasceram de perguntas que não tinham resposta boa ainda:
-como escrever em fatias? como um puzzle de palavras funciona no browser?
-o que é uma nota que não some?
+que ferramenta o escritor brasileiro merece ter? como um puzzle de palavras
+funciona no browser? o que é uma nota que não some?
 
 ---
 
@@ -22,7 +22,7 @@ o que é uma nota que não some?
 
 | | |
 |---|---|
-| [eskrev](https://eskrev.rafa.pro.br/) | slice writer |
+| [escrevaral](https://escrevaral.com/) | oficina literária gratuita |
 | [bijuled](https://rfmss.github.io/bijuled/) | jogo de palavras |
 | [fernanda towers](https://rfmss.github.io/FernandaTowers/) | torre de blocos |
 | [p](https://rfmss.github.io/p/) | caça-palavras |
