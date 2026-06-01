@@ -1,53 +1,13 @@
-<div align="center">
+## rafa mass
 
-**rafa mass** · escritor e desenvolvedor · Brasil
+Escritor e desenvolvedor. Construo ferramentas de linguagem para escritores brasileiros.
 
-</div>
+**[Escrevaral](https://escrevaral.com)** — oficina literária gratuita. Editor completo, análise de voz, prova de autoria em blockchain. Vanilla JS, offline-first, sem IA, sem nuvem.
 
-<br>
+---
 
-<table width="100%">
-<tr>
-<td colspan="3" align="center">
+Outros projetos: [bijuled](https://rfmss.github.io/bijuled) · [fernanda towers](https://rfmss.github.io/FernandaTowers) · [p](https://rfmss.github.io/p) · [dirlizanu](https://rfmss.github.io/dirlizanu) · [biscoito da sorte](https://rfmss.github.io/biscoito) · [nota](https://rfmss.github.io/nota)
 
-### [escrevaral](https://escrevaral.com)
-oficina literária gratuita para escritoras e escritores brasileiros<br>
-`js vanilla` &nbsp;·&nbsp; `offline-first` &nbsp;·&nbsp; `sem IA` &nbsp;·&nbsp; `sem nuvem`
+---
 
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-<b><a href="https://rfmss.github.io/bijuled">bijuled</a></b><br>
-<sub>jogo de palavras</sub>
-</td>
-<td align="center" width="33%">
-<b><a href="https://rfmss.github.io/FernandaTowers">fernanda towers</a></b><br>
-<sub>torre de blocos</sub>
-</td>
-<td align="center" width="33%">
-<b><a href="https://rfmss.github.io/p">p</a></b><br>
-<sub>caça-palavras</sub>
-</td>
-</tr>
-<tr>
-<td align="center">
-<b><a href="https://rfmss.github.io/dirlizanu">dirlizanu</a></b><br>
-<sub>slide puzzle</sub>
-</td>
-<td align="center">
-<b><a href="https://rfmss.github.io/biscoito">biscoito da sorte</a></b><br>
-<sub>um biscoito por dia</sub>
-</td>
-<td align="center">
-<b><a href="https://rfmss.github.io/nota">nota</a></b><br>
-<sub>notas</sub>
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-<sub>issues abertas · feedback bem-vindo · <a href="mailto:rfmss@proton.me">rfmss@proton.me</a></sub>
-</div>
+Issues abertas. Feedback bem-vindo → rfmss@proton.me
