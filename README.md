@@ -6,7 +6,7 @@
 
 Construo ferramentas de linguagem **gratuitas, privadas e feitas para durar**.
 
-[![Escrevaral](https://img.shields.io/badge/CONHEÇA_O_ESCREVARAL-abrir_a_oficina-7C5CFC?style=for-the-badge&labelColor=17141F)](https://escrevaral.com)
+[![Escrevaral](https://img.shields.io/badge/CONHEÇA_O_ESCREVARAL-abrir_a_oficina-264C93?style=for-the-badge&labelColor=111827)](https://escrevaral.com)
 [![E-mail](https://img.shields.io/badge/VAMOS_CONVERSAR-e--mail-EEE9FF?style=for-the-badge&labelColor=17141F)](mailto:rafamass@proton.me)
 
 </div>
@@ -57,7 +57,7 @@ Uma oficina literária no navegador para escritores brasileiros. Editor completo
   <img src="https://img.shields.io/badge/CSS3-17141F?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" />
   <img src="https://img.shields.io/badge/Git-17141F?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
   <img src="https://img.shields.io/badge/Firebase-17141F?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Progressive_Web_Apps-17141F?style=flat-square&logo=pwa&logoColor=7C5CFC" alt="Progressive Web Apps" />
+  <img src="https://img.shields.io/badge/Progressive_Web_Apps-17141F?style=flat-square&logo=pwa&logoColor=6F96E8" alt="Progressive Web Apps" />
 </p>
 
 Minha stack favorita é a que desaparece entre a pessoa e aquilo que ela quer criar: web aberta, JavaScript direto, interfaces acessíveis e software local-first.
