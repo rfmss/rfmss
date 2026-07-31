@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
-  <title id="title">Rafael Massena — software local-first para escrita e português brasileiro</title>
+  <title id="title">Rafa Mass — software local-first para escrita e português brasileiro</title>
   <desc id="desc">Banner RafaMass Blueprint com palco técnico, papel, linhas cyan e registro do Escrevaral.</desc>
   <defs>
     <pattern id="stage-grid" width="34" height="34" patternUnits="userSpaceOnUse">
@@ -34,7 +34,7 @@
   <rect x="50" y="68" width="814" height="220" rx="17" fill="url(#paper-sheen)"/>
 
   <g transform="translate(86 95)">
-    <text x="0" y="16" fill="#087da9" font-family="Courier New, Courier, monospace" font-size="10" font-weight="700" letter-spacing="2.2">RAFAEL MASSENA // RFMSS // WRITER × DEVELOPER</text>
+    <text x="0" y="16" fill="#087da9" font-family="Courier New, Courier, monospace" font-size="10" font-weight="700" letter-spacing="2.2">RAFA MASS // RFMSS // WRITER × DEVELOPER</text>
     <line x1="0" y1="31" x2="710" y2="31" stroke="#161817" stroke-width="4"/>
 
     <text x="0" y="100" fill="#161817" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="900" letter-spacing="-5.5">RAFA</text>
