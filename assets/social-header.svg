@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="500" viewBox="0 0 1500 500" role="img" aria-labelledby="title desc">
+  <title id="title">Rafa Mass — software local-first</title>
+  <desc id="desc">Cabeçalho social RafaMass Blueprint com área segura para avatar e texto técnico.</desc>
+  <defs>
+    <pattern id="stage-grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" fill="none" stroke="#86c7df" stroke-opacity=".08"/>
+    </pattern>
+    <pattern id="paper-dots" width="10" height="10" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#161817" fill-opacity=".06"/>
+    </pattern>
+  </defs>
+
+  <rect width="1500" height="500" fill="#0f1113"/>
+  <rect width="1500" height="500" fill="url(#stage-grid)"/>
+  <rect x="22" y="22" width="1456" height="456" fill="none" stroke="#86c7df" stroke-opacity=".2"/>
+
+  <g opacity=".8">
+    <circle cx="205" cy="255" r="126" fill="none" stroke="#36a7d2" stroke-width="2"/>
+    <circle cx="205" cy="255" r="88" fill="none" stroke="#36a7d2" stroke-opacity=".55" stroke-dasharray="7 9" stroke-width="2"/>
+    <path d="M65 255H345M205 115V395" stroke="#36a7d2" stroke-opacity=".4"/>
+    <rect x="166" y="216" width="78" height="78" rx="7" fill="#ff5a19" stroke="#f3eee4" stroke-width="3" transform="rotate(-3 205 255)"/>
+    <text x="205" y="273" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="900" text-anchor="middle">RM</text>
+  </g>
+
+  <rect x="430" y="82" width="970" height="330" rx="20" fill="#000" opacity=".32" transform="translate(9 11)"/>
+  <rect x="430" y="82" width="970" height="330" rx="20" fill="#f3eee4" stroke="#36a7d2" stroke-width="3"/>
+  <rect x="440" y="92" width="950" height="310" rx="12" fill="none" stroke="#36a7d2" stroke-opacity=".35"/>
+  <rect x="430" y="82" width="970" height="330" rx="20" fill="url(#paper-dots)"/>
+
+  <g transform="translate(490 134)">
+    <text x="0" y="18" fill="#087da9" font-family="Courier New, Courier, monospace" font-size="13" font-weight="700" letter-spacing="2.7">RFMSS // RAFA.PRO.BR // BRASIL</text>
+    <line x1="0" y1="43" x2="824" y2="43" stroke="#161817" stroke-width="5"/>
+
+    <text x="0" y="142" fill="#161817" font-family="Arial, Helvetica, sans-serif" font-size="104" font-weight="900" letter-spacing="-7">RAFA MASS</text>
+    <rect x="0" y="166" width="18" height="70" fill="#ff5a19"/>
+    <text x="40" y="193" fill="#161817" font-family="Georgia, Times New Roman, serif" font-size="31" font-style="italic">software local-first para escrita</text>
+    <text x="40" y="232" fill="#161817" font-family="Georgia, Times New Roman, serif" font-size="31" font-style="italic">e português brasileiro</text>
+
+    <text x="0" y="258" fill="#161817" font-family="Courier New, Courier, monospace" font-size="14" font-weight="700" letter-spacing="1.8">VANILLA JS · PWA · ENGINES LINGUÍSTICAS · OFFLINE</text>
+  </g>
+
+  <g fill="#f3eee4" fill-opacity=".58" font-family="Courier New, Courier, monospace" font-size="11" font-weight="700" letter-spacing="1.7">
+    <text x="38" y="464">PUBLIC PROFILE SYSTEM // SAFE AVATAR FIELD</text>
+    <text x="1462" y="464" text-anchor="end">EVIDENCE BEFORE CLAIMS</text>
+  </g>
+</svg>
