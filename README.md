@@ -1,99 +1,61 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Rafa Mass — escrita, língua portuguesa, educação e software" />
+<img src="./assets/hero.svg" width="100%" alt="Rafael Massena — software local-first para escrita e português brasileiro" />
 
-### Escritor que programa. Desenvolvedor que escuta as palavras.
+### Software local-first para escrita e português brasileiro.
 
-Construo ferramentas de linguagem e organização **gratuitas, privadas e feitas para durar**.
+`Vanilla JavaScript` · `PWA` · `engines linguísticas` · `interfaces offline`
 
-[![Portfólio](https://img.shields.io/badge/ABRIR_O_PORTFÓLIO-RAFA.PRO.BR-FF5A19?style=for-the-badge&labelColor=161817)](https://rafa.pro.br)
-[![Escrevaral](https://img.shields.io/badge/CONHECER_O_ESCREVARAL-OFICINA_DE_ESCRITA-D8F0F8?style=for-the-badge&labelColor=161817)](https://escrevaral.com)
-[![E-mail](https://img.shields.io/badge/CONTATO-RAFAMASS%40PROTON.ME-F3EEE4?style=for-the-badge&labelColor=161817)](mailto:rafamass@proton.me)
+[Escrevaral](https://escrevaral.com) · [arquitetura](https://github.com/rfmss/escrevaral/blob/main/ARCHITECTURE.md) · [experimento atual](https://github.com/rfmss/escrevaral/pull/155) · [rafa.pro.br](https://rafa.pro.br)
 
 </div>
 
-<br />
+## 01 // Sistema principal
 
-## Oficina em andamento
+### [Escrevaral](https://github.com/rfmss/escrevaral)
 
-<table>
-<tr>
-<td width="58%" valign="top">
+Criei o Escrevaral para escrever, preservar e analisar manuscritos no navegador sem transformar o texto em tráfego de uma plataforma. A versão pública **Argila 1.0.0** usa HTML, CSS e JavaScript sem framework e permanece utilizável sem internet depois da instalação.
 
-### [Escrevaral](https://escrevaral.com)
+| Fronteira | Implementação verificável |
+| :--- | :--- |
+| **Execução** | aplicação estática no navegador, sem servidor de aplicação ou conta obrigatória |
+| **Preservação** | estado local, exportação, cópia de segurança e contratos explícitos para migração e conflito |
+| **Linguagem** | engines e dados linguísticos versionados, processados no dispositivo |
+| **Distribuição** | service worker na raiz, cache versionado e auditoria de publicação offline |
+| **Qualidade** | gate de release candidate mais workflows especializados de dados, navegação, privacidade e acessibilidade |
 
-Oficina local para escritores brasileiros: editor, leitura linguística, organização de projetos e prova de autoria sem transformar o texto em matéria-prima para uma nuvem.
+[usar o produto ↗](https://escrevaral.com) · [ler a arquitetura ↗](https://github.com/rfmss/escrevaral/blob/main/ARCHITECTURE.md) · [ver os gates de lançamento ↗](https://github.com/rfmss/escrevaral/blob/main/docs/release/LAUNCH_CHECKLIST.md)
 
-`gratuito` · `offline-first` · `sem cadastro` · `sem IA` · `seus textos são seus`
+### Em validação: Mass Notes Next
 
-</td>
-<td width="42%" valign="top">
+A próxima fundação está isolada numa branch experimental: editor Tiptap/ProseMirror, IndexedDB, autosave, revisões, recuperação, conflitos explícitos e engines locais lendo o snapshot vivo. O trabalho possui gates cross-browser e **não substitui a versão pública enquanto a evidência não autorizar a promoção**.
 
-### RafaMass Blueprint
+[acompanhar o PR técnico #155 ↗](https://github.com/rfmss/escrevaral/pull/155)
 
-Sistema visual público baseado em **oficina, arquivo, blueprint e impressão**: papel gesso, tinta preta, linhas cyan, metadados técnicos, sombras rígidas e uma única ruptura vermelhão.
+## 02 // Sistemas selecionados
 
-[folha de estilo](https://github.com/rfmss/rfmss.github.io/blob/main/assets/css/rafamass-blueprint.css) · [assinatura visual](https://github.com/rfmss/rfmss.github.io/blob/main/docs/ASSINATURA-VISUAL.md) · [guia de implementação](https://github.com/rfmss/dirlizanu/blob/main/docs/IMPLEMENTAR-VISUAL.md)
+| Sistema | Problema tratado | Decisões que podem ser inspecionadas |
+| :--- | :--- | :--- |
+| **[Dirlizanu](https://github.com/rfmss/dirlizanu)** | campanha e laboratório de quebra-cabeças 4 × 4 e 5 × 5 | geração por movimentos legais; auditoria de paridade, unicidade e progressão; adaptação ao `visualViewport`; áudio sintetizado localmente |
+| **[Pomodoro](https://github.com/rfmss/pomodoro)** | cronômetro que não perde o tempo quando a tela bloqueia | relógio baseado em horário absoluto; engine separada do DOM; sessão persistente; auditores do timer e do ciclo; PWA offline |
+| **[Boletos Mil](https://github.com/rfmss/boletosmil)** | organização doméstica sem integração bancária ou conta remota | regras de domínio puras; scanner de privacidade; build estático reproduzível; publicação restrita a `dist/`; exportação e restauração em JSON |
+| **[RafaMass Blueprint](https://github.com/rfmss/rfmss.github.io)** | identidade visual reutilizável sem transformar produtos diferentes no mesmo layout | tokens e componentes isolados por `[data-rm-blueprint]`; nenhuma fonte, imagem, framework ou JavaScript obrigatório; documentação de composição e acessibilidade |
 
-</td>
-</tr>
-</table>
+## 03 // Registro de engenharia
 
-## Produtos em campo
+| Artefato | O que demonstra |
+| :--- | :--- |
+| [Arquitetura do Escrevaral](https://github.com/rfmss/escrevaral/blob/main/ARCHITECTURE.md) | fronteiras de produto, persistência, modelo offline, contratos de interface e dívida estrutural declarada |
+| [Mass Notes Next — PR #155](https://github.com/rfmss/escrevaral/pull/155) | experimento governado por gates, limites linguísticos explícitos e promoção suspensa até validação |
+| [Auditor de níveis do Dirlizanu](https://github.com/rfmss/dirlizanu/blob/main/scripts/audit-levels.js) | matrizes solucionáveis, ausência de duplicatas e progressão mensurável |
+| [Auditores do Pomodoro](https://github.com/rfmss/pomodoro/tree/main/scripts) | precisão do relógio e invariantes do ciclo fora da interface |
+| [Auditoria de privacidade do Boletos Mil](https://github.com/rfmss/boletosmil/blob/main/docs/PRIVACY_AUDIT.md) | separação entre produto público e origem privada, varredura de dados e limites do armazenamento local |
+| [Assinatura visual RafaMass](https://github.com/rfmss/rfmss.github.io/blob/main/docs/ASSINATURA-VISUAL.md) | sistema de tokens, hierarquia, responsividade, movimento e anti-padrões |
 
-| Registro | Função | Abrir |
-| :--- | :--- | :---: |
-| **Dirlizanu** | Quebra-cabeça deslizante com campanha, desafios auditados e interação direta. | [produto ↗](https://rfmss.github.io/dirlizanu/) · [código ↗](https://github.com/rfmss/dirlizanu) |
-| **Pomodoro** | Timer livre e ciclo Pomodoro local, responsivo e com retomada de sessão. | [produto ↗](https://rfmss.github.io/pomodoro/) · [código ↗](https://github.com/rfmss/pomodoro) |
-| **Boletos Mil** | Organização doméstica local-first para acompanhar compromissos sem entregar os dados. | [produto ↗](https://rfmss.github.io/boletosmil/) |
-| **Rafa.pro.br** | Portfólio editorial e catálogo vivo dos produtos Rafa Mass. | [visitar ↗](https://rafa.pro.br) · [código ↗](https://github.com/rfmss/rfmss.github.io) |
+## 04 // Contato
 
-## Princípios de construção
+**Rafael Massena** — escritor e desenvolvedor. A experiência com texto orienta os problemas que escolho resolver; os repositórios registram como cada solução foi construída e validada.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+[rafa.pro.br](https://rafa.pro.br) · [rafamass@proton.me](mailto:rafamass@proton.me) · [@rafa.pro.br no Bluesky](https://bsky.app/profile/rafa.pro.br) · [@xrafamass no X](https://x.com/xrafamass)
 
-**01 // Privacidade é o padrão**  
-O dado permanece local sempre que a função permite.
-
-**02 // A ferramenta não é a autora**  
-Software apoia a escrita sem disputar sua voz.
-
-</td>
-<td width="50%" valign="top">
-
-**03 // Função antes do efeito**  
-A interface deve funcionar antes de tentar encantar.
-
-**04 // Acesso não deveria ser luxo**  
-Projetos essenciais devem continuar leves e abertos.
-
-</td>
-</tr>
-</table>
-
-## Materiais escolhidos
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-161817?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-161817?style=flat-square&logo=html5&logoColor=FF5A19" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-161817?style=flat-square&logo=css3&logoColor=36A7D2" alt="CSS3" />
-  <img src="https://img.shields.io/badge/PWA-161817?style=flat-square&logo=pwa&logoColor=D8F0F8" alt="Progressive Web Apps" />
-  <img src="https://img.shields.io/badge/local--first-161817?style=flat-square&logoColor=F3EEE4" alt="local-first" />
-  <img src="https://img.shields.io/badge/vanilla_web-161817?style=flat-square&logoColor=F3EEE4" alt="Web sem framework" />
-</p>
-
-Minha stack favorita desaparece entre a pessoa e aquilo que ela quer criar: web aberta, JavaScript direto, interfaces acessíveis e software local-first.
-
----
-
-<div align="center">
-
-**Estrutura antes do ornamento. Código é linguagem.**
-
-Brasil · [rafa.pro.br](https://rafa.pro.br) · [escrevaral.com](https://escrevaral.com) · [rafamass@proton.me](mailto:rafamass@proton.me)
-
-<sub>`rfmss` é a matrícula técnica. Rafa Mass é a assinatura pública.</sub>
-
-</div>
+<sub>`Rafa Mass` é a assinatura pública. `rfmss` é a matrícula técnica.</sub>
