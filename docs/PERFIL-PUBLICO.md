@@ -2,20 +2,19 @@
 
 ## Arquitetura de identidade
 
-- **Pessoa:** Rafael Massena
-- **Assinatura pública:** Rafa Mass
+- **Identidade pública:** Rafa Mass
 - **Matrícula técnica e handle:** `rfmss`
 - **Domínio canônico:** `rafa.pro.br`
 - **Posicionamento:** Software local-first para escrita e português brasileiro.
 
-A assinatura visual pode variar de composição, mas essas cinco definições não devem competir entre si.
+O nome civil não deve aparecer em bios, banners, README, metadados, textos alternativos ou documentação pública quando não houver exigência legal ou histórica. A identidade pública deve ser suficiente para reconhecimento, autoria e contato.
 
 ## GitHub
 
 ### Nome
 
 ```text
-Rafael Massena
+Rafa Mass
 ```
 
 ### Bio
@@ -44,6 +43,7 @@ Brasil
 
 ### Remover do perfil público
 
+- nome civil como nome exibido;
 - “Estudante” como identidade principal;
 - e-mail acadêmico como contato público;
 - links redundantes que não apontem para trabalho, currículo ou canal ativo.
@@ -53,7 +53,7 @@ Brasil
 ### Nome exibido
 
 ```text
-Rafael Massena
+Rafa Mass
 ```
 
 ### Handle
@@ -73,7 +73,7 @@ Software local-first para escrita e português brasileiro. Criador do Escrevaral
 ### Nome exibido
 
 ```text
-Rafael Massena
+Rafa Mass
 ```
 
 ### Handle atual
@@ -100,10 +100,11 @@ Composição:
 
 - 1500 × 500;
 - campo esquerdo reservado ao avatar e aos recortes das plataformas;
-- nome e posicionamento na área central segura;
+- identidade pública e posicionamento na área central segura;
 - mesma paleta e mesma gramática do hero do GitHub;
 - um único sinal vermelhão;
-- nenhuma informação essencial nas bordas.
+- nenhuma informação essencial nas bordas;
+- nenhuma ocorrência do nome civil em texto visível ou metadado acessível.
 
 Para publicar, exporte o SVG para PNG em 1500 × 500, sem redimensionamento intermediário.
 
@@ -121,3 +122,7 @@ Os fixados devem funcionar como exposição de engenharia, não como histórico 
 ## Critério editorial
 
 Cada afirmação forte deve apontar para código, documento, auditor, teste, workflow ou PR verificável. Quando o estado for experimental, a palavra “experimental” deve aparecer antes da descrição da capacidade.
+
+## Limite de remoção
+
+Alterar arquivos atuais reduz novas indexações, mas não elimina automaticamente cópias em caches, commits antigos, forks, releases, mecanismos de busca ou serviços externos. Reescrever histórico Git é uma operação separada, invasiva e só deve ocorrer após inventário completo e aprovação explícita.
