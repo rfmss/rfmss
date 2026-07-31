@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Rafael Massena — software local-first para escrita e português brasileiro" />
+<img src="./assets/hero.svg" width="100%" alt="Rafa Mass — software local-first para escrita e português brasileiro" />
 
 ### Software local-first para escrita e português brasileiro.
 
@@ -54,8 +54,8 @@ A próxima fundação está isolada numa branch experimental: editor Tiptap/Pros
 
 ## 04 // Contato
 
-**Rafael Massena** — escritor e desenvolvedor. A experiência com texto orienta os problemas que escolho resolver; os repositórios registram como cada solução foi construída e validada.
+**Rafa Mass** — escritor e desenvolvedor. A experiência com texto orienta os problemas que escolho resolver; os repositórios registram como cada solução foi construída e validada.
 
 [rafa.pro.br](https://rafa.pro.br) · [rafamass@proton.me](mailto:rafamass@proton.me) · [@rafa.pro.br no Bluesky](https://bsky.app/profile/rafa.pro.br) · [@xrafamass no X](https://x.com/xrafamass)
 
-<sub>`Rafa Mass` é a assinatura pública. `rfmss` é a matrícula técnica.</sub>
+<sub>`Rafa Mass` é a identidade pública. `rfmss` é a matrícula técnica.</sub>
