@@ -1,75 +1,99 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Rafael Massena — software para quem escreve" />
+<img src="./assets/hero.svg" width="100%" alt="Rafa Mass — escrita, língua portuguesa, educação e software" />
 
 ### Escritor que programa. Desenvolvedor que escuta as palavras.
 
-Construo ferramentas de linguagem **gratuitas, privadas e feitas para durar**.
+Construo ferramentas de linguagem e organização **gratuitas, privadas e feitas para durar**.
 
-[![Escrevaral](https://img.shields.io/badge/CONHEÇA_O_ESCREVARAL-abrir_a_oficina-7C5CFC?style=for-the-badge&labelColor=17141F)](https://escrevaral.com)
-[![E-mail](https://img.shields.io/badge/VAMOS_CONVERSAR-e--mail-EEE9FF?style=for-the-badge&labelColor=17141F)](mailto:rafamass@proton.me)
+[![Portfólio](https://img.shields.io/badge/ABRIR_O_PORTFÓLIO-RAFA.PRO.BR-FF5A19?style=for-the-badge&labelColor=161817)](https://rafa.pro.br)
+[![Escrevaral](https://img.shields.io/badge/CONHECER_O_ESCREVARAL-OFICINA_DE_ESCRITA-D8F0F8?style=for-the-badge&labelColor=161817)](https://escrevaral.com)
+[![E-mail](https://img.shields.io/badge/CONTATO-RAFAMASS%40PROTON.ME-F3EEE4?style=for-the-badge&labelColor=161817)](mailto:rafamass@proton.me)
 
 </div>
 
 <br />
 
-## O que estou construindo
+## Oficina em andamento
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="58%" valign="top">
 
-### ✦ [Escrevaral](https://escrevaral.com)
+### [Escrevaral](https://escrevaral.com)
 
-Uma oficina literária no navegador para escritores brasileiros. Editor completo, leitura de ritmo e voz narrativa, organização de projetos e prova de autoria — tudo sem transformar a escrita em matéria-prima para uma nuvem.
+Oficina local para escritores brasileiros: editor, leitura linguística, organização de projetos e prova de autoria sem transformar o texto em matéria-prima para uma nuvem.
 
-`gratuito` · `offline-first` · `sem IA` · `sem cadastro` · `seus textos são seus`
+`gratuito` · `offline-first` · `sem cadastro` · `sem IA` · `seus textos são seus`
 
 </td>
-<td width="38%" valign="top">
+<td width="42%" valign="top">
 
-### Princípios de produto
+### RafaMass Blueprint
 
-↳ **Privacidade é o padrão**<br />
-↳ **A ferramenta não é a autora**<br />
-↳ **Funciona antes de encantar**<br />
-↳ **Acesso não deveria ser luxo**
+Sistema visual público baseado em **oficina, arquivo, blueprint e impressão**: papel gesso, tinta preta, linhas cyan, metadados técnicos, sombras rígidas e uma única ruptura vermelhão.
+
+[folha de estilo](https://github.com/rfmss/rfmss.github.io/blob/main/assets/css/rafamass-blueprint.css) · [assinatura visual](https://github.com/rfmss/rfmss.github.io/blob/main/docs/ASSINATURA-VISUAL.md) · [guia de implementação](https://github.com/rfmss/dirlizanu/blob/main/docs/IMPLEMENTAR-VISUAL.md)
 
 </td>
 </tr>
 </table>
 
-## Projetos & experimentos
+## Produtos em campo
 
-| Projeto | Uma linha sobre ele | Abrir |
+| Registro | Função | Abrir |
 | :--- | :--- | :---: |
-| **Bijuled** | Brincadeira visual feita de luz, cor e código. | [visitar ↗](https://rfmss.github.io/bijuled) |
-| **Fernanda Towers** | Uma pequena experiência interativa para a web. | [visitar ↗](https://rfmss.github.io/FernandaTowers) |
-| **Dirlizanu** | Narrativa digital, interface e experimentação. | [visitar ↗](https://rfmss.github.io/dirlizanu) |
-| **Biscoito da sorte** | Um conselho improvável a cada clique. | [abrir um ↗](https://rfmss.github.io/biscoito) |
-| **Nota** | Ideias rápidas em uma interface mínima. | [experimentar ↗](https://rfmss.github.io/nota) |
+| **Dirlizanu** | Quebra-cabeça deslizante com campanha, desafios auditados e interação direta. | [produto ↗](https://rfmss.github.io/dirlizanu/) · [código ↗](https://github.com/rfmss/dirlizanu) |
+| **Pomodoro** | Timer livre e ciclo Pomodoro local, responsivo e com retomada de sessão. | [produto ↗](https://rfmss.github.io/pomodoro/) · [código ↗](https://github.com/rfmss/pomodoro) |
+| **Boletos Mil** | Organização doméstica local-first para acompanhar compromissos sem entregar os dados. | [produto ↗](https://rfmss.github.io/boletosmil/) |
+| **Rafa.pro.br** | Portfólio editorial e catálogo vivo dos produtos Rafa Mass. | [visitar ↗](https://rafa.pro.br) · [código ↗](https://github.com/rfmss/rfmss.github.io) |
 
-## Ferramentas que escolho
+## Princípios de construção
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**01 // Privacidade é o padrão**  
+O dado permanece local sempre que a função permite.
+
+**02 // A ferramenta não é a autora**  
+Software apoia a escrita sem disputar sua voz.
+
+</td>
+<td width="50%" valign="top">
+
+**03 // Função antes do efeito**  
+A interface deve funcionar antes de tentar encantar.
+
+**04 // Acesso não deveria ser luxo**  
+Projetos essenciais devem continuar leves e abertos.
+
+</td>
+</tr>
+</table>
+
+## Materiais escolhidos
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-17141F?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-17141F?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-17141F?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Git-17141F?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/Firebase-17141F?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Progressive_Web_Apps-17141F?style=flat-square&logo=pwa&logoColor=7C5CFC" alt="Progressive Web Apps" />
+  <img src="https://img.shields.io/badge/JavaScript-161817?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-161817?style=flat-square&logo=html5&logoColor=FF5A19" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-161817?style=flat-square&logo=css3&logoColor=36A7D2" alt="CSS3" />
+  <img src="https://img.shields.io/badge/PWA-161817?style=flat-square&logo=pwa&logoColor=D8F0F8" alt="Progressive Web Apps" />
+  <img src="https://img.shields.io/badge/local--first-161817?style=flat-square&logoColor=F3EEE4" alt="local-first" />
+  <img src="https://img.shields.io/badge/vanilla_web-161817?style=flat-square&logoColor=F3EEE4" alt="Web sem framework" />
 </p>
 
-Minha stack favorita é a que desaparece entre a pessoa e aquilo que ela quer criar: web aberta, JavaScript direto, interfaces acessíveis e software local-first.
+Minha stack favorita desaparece entre a pessoa e aquilo que ela quer criar: web aberta, JavaScript direto, interfaces acessíveis e software local-first.
 
 ---
 
 <div align="center">
 
-**Código é linguagem. Linguagem também é arquitetura.**
+**Estrutura antes do ornamento. Código é linguagem.**
 
-Brasil · [escrevaral.com](https://escrevaral.com) · [rafamass@proton.me](mailto:rafamass@proton.me)
+Brasil · [rafa.pro.br](https://rafa.pro.br) · [escrevaral.com](https://escrevaral.com) · [rafamass@proton.me](mailto:rafamass@proton.me)
 
-<sub>Se algum projeto daqui ajudou você, uma estrela conta essa história para mais alguém.</sub>
+<sub>`rfmss` é a matrícula técnica. Rafa Mass é a assinatura pública.</sub>
 
 </div>
